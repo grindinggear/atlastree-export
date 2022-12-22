@@ -3841,10 +3841,11 @@
         },
         "16915": {
             "skill": 16915,
-            "name": "Blight Encounter Chance",
+            "name": "Blight Crafting Option and Chest Chance",
             "icon": "Art/2DArt/SkillIcons/passives/AtlasTrees/BlightNotable1.png",
             "stats": [
-                "Your Maps have +4% chance to contain a Blight Encounter"
+                "Lanes of Blight Encounters in your Maps have 5% chance for an additional Reward Chest",
+                "2% chance on Completing your Maps to gain a free use of the Blight Map Crafting Option"
             ],
             "group": 5,
             "orbit": 3,
@@ -3859,10 +3860,10 @@
         },
         "22988": {
             "skill": 22988,
-            "name": "Additional Blight Encounter Chance",
+            "name": "Blight Crafting Option",
             "icon": "Art/2DArt/SkillIcons/passives/AtlasTrees/BlightNotable1.png",
             "stats": [
-                "Your Maps with Blight Encounters have 8% chance to contain an additional Blight Encounter"
+                "5% chance on Completing your Maps to gain a free use of the Blight Map Crafting Option"
             ],
             "group": 5,
             "orbit": 3,
@@ -3898,7 +3899,8 @@
             "icon": "Art/2DArt/SkillIcons/passives/AtlasTrees/BlightNotable6.png",
             "isNotable": true,
             "stats": [
-                "Your Maps with Blight Encounters have 20% chance to contain an additional Blight Encounter"
+                "Blight Map Crafting Option is always available",
+                "50% reduced cost of the Blight Map Crafting Option"
             ],
             "group": 5,
             "orbit": 3,
@@ -3964,10 +3966,10 @@
         },
         "44778": {
             "skill": 44778,
-            "name": "Additional Blight Encounter Chance",
+            "name": "Blight Crafting Option",
             "icon": "Art/2DArt/SkillIcons/passives/AtlasTrees/BlightNotable1.png",
             "stats": [
-                "Your Maps with Blight Encounters have 8% chance to contain an additional Blight Encounter"
+                "5% chance on Completing your Maps to gain a free use of the Blight Map Crafting Option"
             ],
             "group": 5,
             "orbit": 3,
@@ -8108,7 +8110,7 @@
             "isNotable": true,
             "stats": [
                 "30% reduced magnitude of Damage granted to Metamorphs from Vat Fill in your Maps",
-                "30% reduced magnitudes of Life granted to Metamorphs from Vat Fill in your Maps"
+                "30% reduced magnitude of Life granted to Metamorphs from Vat Fill in your Maps"
             ],
             "group": 60,
             "orbit": 3,
@@ -13433,7 +13435,7 @@
             "name": "Betrayal Syndicate Reinforcement Chance",
             "icon": "Art/2DArt/SkillIcons/passives/AtlasTrees/JunNode1.png",
             "stats": [
-                "Immortal Syndicate Members in your Maps are 5% more\nlikely to be accompanied by reinforcements"
+                "Immortal Syndicate Members in your Maps have 5% increased chance to be accompanied by reinforcements"
             ],
             "group": 138,
             "orbit": 2,
@@ -13449,7 +13451,7 @@
             "name": "Betrayal Syndicate Reinforcement Chance",
             "icon": "Art/2DArt/SkillIcons/passives/AtlasTrees/JunNode1.png",
             "stats": [
-                "Immortal Syndicate Members in your Maps are 5% more\nlikely to be accompanied by reinforcements"
+                "Immortal Syndicate Members in your Maps have 5% increased chance to be accompanied by reinforcements"
             ],
             "group": 138,
             "orbit": 2,
@@ -15877,7 +15879,7 @@
             "name": "Betrayal Syndicate Reinforcement Chance",
             "icon": "Art/2DArt/SkillIcons/passives/AtlasTrees/JunNode1.png",
             "stats": [
-                "Immortal Syndicate Members in your Maps are 5% more\nlikely to be accompanied by reinforcements"
+                "Immortal Syndicate Members in your Maps have 5% increased chance to be accompanied by reinforcements"
             ],
             "group": 173,
             "orbit": 2,
@@ -15894,7 +15896,7 @@
             "name": "Betrayal Syndicate Reinforcement Chance",
             "icon": "Art/2DArt/SkillIcons/passives/AtlasTrees/JunNode1.png",
             "stats": [
-                "Immortal Syndicate Members in your Maps are 5% more\nlikely to be accompanied by reinforcements"
+                "Immortal Syndicate Members in your Maps have 5% increased chance to be accompanied by reinforcements"
             ],
             "group": 173,
             "orbit": 2,
@@ -15911,7 +15913,7 @@
             "name": "Betrayal Syndicate Reinforcement Chance",
             "icon": "Art/2DArt/SkillIcons/passives/AtlasTrees/JunNode1.png",
             "stats": [
-                "Immortal Syndicate Members in your Maps are 5% more\nlikely to be accompanied by reinforcements"
+                "Immortal Syndicate Members in your Maps have 5% increased chance to be accompanied by reinforcements"
             ],
             "group": 173,
             "orbit": 2,
@@ -18543,7 +18545,7 @@
         },
         "normalActive": {
             "0.1246": {
-                "filename": "https://web.poecdn.com/image/passive-skill/atlas-skills-0.jpg?b7c03c7f",
+                "filename": "https://web.poecdn.com/image/passive-skill/atlas-skills-0.jpg?d1879e8b",
                 "w": 168,
                 "h": 214,
                 "coords": {
@@ -18856,7 +18858,7 @@
                 }
             },
             "0.2109": {
-                "filename": "https://web.poecdn.com/image/passive-skill/atlas-skills-1.jpg?8091645f",
+                "filename": "https://web.poecdn.com/image/passive-skill/atlas-skills-1.jpg?239bb7a3",
                 "w": 280,
                 "h": 360,
                 "coords": {
@@ -19169,7 +19171,7 @@
                 }
             },
             "0.2972": {
-                "filename": "https://web.poecdn.com/image/passive-skill/atlas-skills-2.jpg?2f967487",
+                "filename": "https://web.poecdn.com/image/passive-skill/atlas-skills-2.jpg?5bde7914",
                 "w": 406,
                 "h": 519,
                 "coords": {
@@ -19482,7 +19484,7 @@
                 }
             },
             "0.3835": {
-                "filename": "https://web.poecdn.com/image/passive-skill/atlas-skills-3.jpg?5183ae01",
+                "filename": "https://web.poecdn.com/image/passive-skill/atlas-skills-3.jpg?eae9ff4e",
                 "w": 518,
                 "h": 665,
                 "coords": {
@@ -19797,7 +19799,7 @@
         },
         "notableActive": {
             "0.1246": {
-                "filename": "https://web.poecdn.com/image/passive-skill/atlas-skills-0.jpg?b7c03c7f",
+                "filename": "https://web.poecdn.com/image/passive-skill/atlas-skills-0.jpg?d1879e8b",
                 "w": 168,
                 "h": 214,
                 "coords": {
@@ -20860,7 +20862,7 @@
                 }
             },
             "0.2109": {
-                "filename": "https://web.poecdn.com/image/passive-skill/atlas-skills-1.jpg?8091645f",
+                "filename": "https://web.poecdn.com/image/passive-skill/atlas-skills-1.jpg?239bb7a3",
                 "w": 280,
                 "h": 360,
                 "coords": {
@@ -21923,7 +21925,7 @@
                 }
             },
             "0.2972": {
-                "filename": "https://web.poecdn.com/image/passive-skill/atlas-skills-2.jpg?2f967487",
+                "filename": "https://web.poecdn.com/image/passive-skill/atlas-skills-2.jpg?5bde7914",
                 "w": 406,
                 "h": 519,
                 "coords": {
@@ -22986,7 +22988,7 @@
                 }
             },
             "0.3835": {
-                "filename": "https://web.poecdn.com/image/passive-skill/atlas-skills-3.jpg?5183ae01",
+                "filename": "https://web.poecdn.com/image/passive-skill/atlas-skills-3.jpg?eae9ff4e",
                 "w": 518,
                 "h": 665,
                 "coords": {
@@ -24051,7 +24053,7 @@
         },
         "keystoneActive": {
             "0.1246": {
-                "filename": "https://web.poecdn.com/image/passive-skill/atlas-skills-0.jpg?b7c03c7f",
+                "filename": "https://web.poecdn.com/image/passive-skill/atlas-skills-0.jpg?d1879e8b",
                 "w": 168,
                 "h": 214,
                 "coords": {
@@ -24160,7 +24162,7 @@
                 }
             },
             "0.2109": {
-                "filename": "https://web.poecdn.com/image/passive-skill/atlas-skills-1.jpg?8091645f",
+                "filename": "https://web.poecdn.com/image/passive-skill/atlas-skills-1.jpg?239bb7a3",
                 "w": 280,
                 "h": 360,
                 "coords": {
@@ -24269,7 +24271,7 @@
                 }
             },
             "0.2972": {
-                "filename": "https://web.poecdn.com/image/passive-skill/atlas-skills-2.jpg?2f967487",
+                "filename": "https://web.poecdn.com/image/passive-skill/atlas-skills-2.jpg?5bde7914",
                 "w": 406,
                 "h": 519,
                 "coords": {
@@ -24378,7 +24380,7 @@
                 }
             },
             "0.3835": {
-                "filename": "https://web.poecdn.com/image/passive-skill/atlas-skills-3.jpg?5183ae01",
+                "filename": "https://web.poecdn.com/image/passive-skill/atlas-skills-3.jpg?eae9ff4e",
                 "w": 518,
                 "h": 665,
                 "coords": {
@@ -24489,7 +24491,7 @@
         },
         "normalInactive": {
             "0.1246": {
-                "filename": "https://web.poecdn.com/image/passive-skill/atlas-skills-disabled-0.jpg?234b3afa",
+                "filename": "https://web.poecdn.com/image/passive-skill/atlas-skills-disabled-0.jpg?c8fdc0e8",
                 "w": 168,
                 "h": 214,
                 "coords": {
@@ -24802,7 +24804,7 @@
                 }
             },
             "0.2109": {
-                "filename": "https://web.poecdn.com/image/passive-skill/atlas-skills-disabled-1.jpg?01a86757",
+                "filename": "https://web.poecdn.com/image/passive-skill/atlas-skills-disabled-1.jpg?13081eb5",
                 "w": 280,
                 "h": 360,
                 "coords": {
@@ -25115,7 +25117,7 @@
                 }
             },
             "0.2972": {
-                "filename": "https://web.poecdn.com/image/passive-skill/atlas-skills-disabled-2.jpg?f1b4759c",
+                "filename": "https://web.poecdn.com/image/passive-skill/atlas-skills-disabled-2.jpg?ca0db9df",
                 "w": 406,
                 "h": 519,
                 "coords": {
@@ -25428,7 +25430,7 @@
                 }
             },
             "0.3835": {
-                "filename": "https://web.poecdn.com/image/passive-skill/atlas-skills-disabled-3.jpg?ef6ec6ad",
+                "filename": "https://web.poecdn.com/image/passive-skill/atlas-skills-disabled-3.jpg?1499d5c5",
                 "w": 518,
                 "h": 665,
                 "coords": {
@@ -25743,7 +25745,7 @@
         },
         "notableInactive": {
             "0.1246": {
-                "filename": "https://web.poecdn.com/image/passive-skill/atlas-skills-disabled-0.jpg?234b3afa",
+                "filename": "https://web.poecdn.com/image/passive-skill/atlas-skills-disabled-0.jpg?c8fdc0e8",
                 "w": 168,
                 "h": 214,
                 "coords": {
@@ -26806,7 +26808,7 @@
                 }
             },
             "0.2109": {
-                "filename": "https://web.poecdn.com/image/passive-skill/atlas-skills-disabled-1.jpg?01a86757",
+                "filename": "https://web.poecdn.com/image/passive-skill/atlas-skills-disabled-1.jpg?13081eb5",
                 "w": 280,
                 "h": 360,
                 "coords": {
@@ -27869,7 +27871,7 @@
                 }
             },
             "0.2972": {
-                "filename": "https://web.poecdn.com/image/passive-skill/atlas-skills-disabled-2.jpg?f1b4759c",
+                "filename": "https://web.poecdn.com/image/passive-skill/atlas-skills-disabled-2.jpg?ca0db9df",
                 "w": 406,
                 "h": 519,
                 "coords": {
@@ -28932,7 +28934,7 @@
                 }
             },
             "0.3835": {
-                "filename": "https://web.poecdn.com/image/passive-skill/atlas-skills-disabled-3.jpg?ef6ec6ad",
+                "filename": "https://web.poecdn.com/image/passive-skill/atlas-skills-disabled-3.jpg?1499d5c5",
                 "w": 518,
                 "h": 665,
                 "coords": {
@@ -29997,7 +29999,7 @@
         },
         "keystoneInactive": {
             "0.1246": {
-                "filename": "https://web.poecdn.com/image/passive-skill/atlas-skills-disabled-0.jpg?234b3afa",
+                "filename": "https://web.poecdn.com/image/passive-skill/atlas-skills-disabled-0.jpg?c8fdc0e8",
                 "w": 168,
                 "h": 214,
                 "coords": {
@@ -30106,7 +30108,7 @@
                 }
             },
             "0.2109": {
-                "filename": "https://web.poecdn.com/image/passive-skill/atlas-skills-disabled-1.jpg?01a86757",
+                "filename": "https://web.poecdn.com/image/passive-skill/atlas-skills-disabled-1.jpg?13081eb5",
                 "w": 280,
                 "h": 360,
                 "coords": {
@@ -30215,7 +30217,7 @@
                 }
             },
             "0.2972": {
-                "filename": "https://web.poecdn.com/image/passive-skill/atlas-skills-disabled-2.jpg?f1b4759c",
+                "filename": "https://web.poecdn.com/image/passive-skill/atlas-skills-disabled-2.jpg?ca0db9df",
                 "w": 406,
                 "h": 519,
                 "coords": {
@@ -30324,7 +30326,7 @@
                 }
             },
             "0.3835": {
-                "filename": "https://web.poecdn.com/image/passive-skill/atlas-skills-disabled-3.jpg?ef6ec6ad",
+                "filename": "https://web.poecdn.com/image/passive-skill/atlas-skills-disabled-3.jpg?1499d5c5",
                 "w": 518,
                 "h": 665,
                 "coords": {
@@ -30435,7 +30437,7 @@
         },
         "mastery": {
             "0.1246": {
-                "filename": "https://web.poecdn.com/image/passive-skill/atlas-mastery-0.png?c0345e5d",
+                "filename": "https://web.poecdn.com/image/passive-skill/atlas-mastery-0.png?103d740c",
                 "w": 168,
                 "h": 168,
                 "coords": {
@@ -30634,7 +30636,7 @@
                 }
             },
             "0.2109": {
-                "filename": "https://web.poecdn.com/image/passive-skill/atlas-mastery-1.png?a136a0cc",
+                "filename": "https://web.poecdn.com/image/passive-skill/atlas-mastery-1.png?f0304349",
                 "w": 282,
                 "h": 282,
                 "coords": {
@@ -30833,7 +30835,7 @@
                 }
             },
             "0.2972": {
-                "filename": "https://web.poecdn.com/image/passive-skill/atlas-mastery-2.png?dba06277",
+                "filename": "https://web.poecdn.com/image/passive-skill/atlas-mastery-2.png?7fdc894a",
                 "w": 402,
                 "h": 402,
                 "coords": {
@@ -31032,7 +31034,7 @@
                 }
             },
             "0.3835": {
-                "filename": "https://web.poecdn.com/image/passive-skill/atlas-mastery-3.png?9c00e64e",
+                "filename": "https://web.poecdn.com/image/passive-skill/atlas-mastery-3.png?47b91edd",
                 "w": 516,
                 "h": 516,
                 "coords": {
@@ -31434,7 +31436,7 @@
         },
         "groupBackground": {
             "0.1246": {
-                "filename": "https://web.poecdn.com/image/passive-skill/atlas-group-background-0.png?ea00ce6c",
+                "filename": "https://web.poecdn.com/image/passive-skill/atlas-group-background-0.png?01323526",
                 "w": 446,
                 "h": 374,
                 "coords": {
@@ -31489,7 +31491,7 @@
                 }
             },
             "0.2109": {
-                "filename": "https://web.poecdn.com/image/passive-skill/atlas-group-background-1.png?e173ebdd",
+                "filename": "https://web.poecdn.com/image/passive-skill/atlas-group-background-1.png?d2c8312f",
                 "w": 756,
                 "h": 635,
                 "coords": {
@@ -31544,7 +31546,7 @@
                 }
             },
             "0.2972": {
-                "filename": "https://web.poecdn.com/image/passive-skill/atlas-group-background-2.png?2f58cceb",
+                "filename": "https://web.poecdn.com/image/passive-skill/atlas-group-background-2.png?e740a121",
                 "w": 1066,
                 "h": 895,
                 "coords": {
@@ -31599,7 +31601,7 @@
                 }
             },
             "0.3835": {
-                "filename": "https://web.poecdn.com/image/passive-skill/atlas-group-background-3.png?baf3269f",
+                "filename": "https://web.poecdn.com/image/passive-skill/atlas-group-background-3.png?4911cc41",
                 "w": 1377,
                 "h": 1155,
                 "coords": {
@@ -31656,7 +31658,7 @@
         },
         "startNode": {
             "0.1246": {
-                "filename": "https://web.poecdn.com/image/passive-skill/atlas-group-background-0.png?ea00ce6c",
+                "filename": "https://web.poecdn.com/image/passive-skill/atlas-group-background-0.png?01323526",
                 "w": 446,
                 "h": 374,
                 "coords": {
@@ -31669,7 +31671,7 @@
                 }
             },
             "0.2109": {
-                "filename": "https://web.poecdn.com/image/passive-skill/atlas-group-background-1.png?e173ebdd",
+                "filename": "https://web.poecdn.com/image/passive-skill/atlas-group-background-1.png?d2c8312f",
                 "w": 756,
                 "h": 635,
                 "coords": {
@@ -31682,7 +31684,7 @@
                 }
             },
             "0.2972": {
-                "filename": "https://web.poecdn.com/image/passive-skill/atlas-group-background-2.png?2f58cceb",
+                "filename": "https://web.poecdn.com/image/passive-skill/atlas-group-background-2.png?e740a121",
                 "w": 1066,
                 "h": 895,
                 "coords": {
@@ -31695,7 +31697,7 @@
                 }
             },
             "0.3835": {
-                "filename": "https://web.poecdn.com/image/passive-skill/atlas-group-background-3.png?baf3269f",
+                "filename": "https://web.poecdn.com/image/passive-skill/atlas-group-background-3.png?4911cc41",
                 "w": 1377,
                 "h": 1155,
                 "coords": {
@@ -31710,7 +31712,7 @@
         },
         "frame": {
             "0.1246": {
-                "filename": "https://web.poecdn.com/image/passive-skill/atlas-frame-0.png?7ec69849",
+                "filename": "https://web.poecdn.com/image/passive-skill/atlas-frame-0.png?e70ec584",
                 "w": 72,
                 "h": 66,
                 "coords": {
@@ -31771,7 +31773,7 @@
                 }
             },
             "0.2109": {
-                "filename": "https://web.poecdn.com/image/passive-skill/atlas-frame-1.png?e781b283",
+                "filename": "https://web.poecdn.com/image/passive-skill/atlas-frame-1.png?f17f76c2",
                 "w": 135,
                 "h": 99,
                 "coords": {
@@ -31832,7 +31834,7 @@
                 }
             },
             "0.2972": {
-                "filename": "https://web.poecdn.com/image/passive-skill/atlas-frame-2.png?4aa50445",
+                "filename": "https://web.poecdn.com/image/passive-skill/atlas-frame-2.png?4c97d9f5",
                 "w": 192,
                 "h": 140,
                 "coords": {
@@ -31893,7 +31895,7 @@
                 }
             },
             "0.3835": {
-                "filename": "https://web.poecdn.com/image/passive-skill/atlas-frame-3.png?07bc6e06",
+                "filename": "https://web.poecdn.com/image/passive-skill/atlas-frame-3.png?93b59596",
                 "w": 249,
                 "h": 182,
                 "coords": {
@@ -31956,7 +31958,7 @@
         },
         "line": {
             "0.1246": {
-                "filename": "https://web.poecdn.com/image/passive-skill/atlas-line-0.png?dbeba5ce",
+                "filename": "https://web.poecdn.com/image/passive-skill/atlas-line-0.png?b584644e",
                 "w": 119,
                 "h": 370,
                 "coords": {
@@ -32101,7 +32103,7 @@
                 }
             },
             "0.2109": {
-                "filename": "https://web.poecdn.com/image/passive-skill/atlas-line-1.png?acedc080",
+                "filename": "https://web.poecdn.com/image/passive-skill/atlas-line-1.png?290f206d",
                 "w": 202,
                 "h": 627,
                 "coords": {
@@ -32246,7 +32248,7 @@
                 }
             },
             "0.2972": {
-                "filename": "https://web.poecdn.com/image/passive-skill/atlas-line-2.png?a6169787",
+                "filename": "https://web.poecdn.com/image/passive-skill/atlas-line-2.png?12855bd3",
                 "w": 285,
                 "h": 883,
                 "coords": {
@@ -32391,7 +32393,7 @@
                 }
             },
             "0.3835": {
-                "filename": "https://web.poecdn.com/image/passive-skill/atlas-line-3.png?dae78046",
+                "filename": "https://web.poecdn.com/image/passive-skill/atlas-line-3.png?a7d28005",
                 "w": 368,
                 "h": 1140,
                 "coords": {
@@ -32538,7 +32540,7 @@
         },
         "atlasBackground": {
             "0.1246": {
-                "filename": "https://web.poecdn.com/image/passive-skill/atlas-background-0.jpg?dedb202c",
+                "filename": "https://web.poecdn.com/image/passive-skill/atlas-background-0.jpg?f097e4a5",
                 "w": 510,
                 "h": 492,
                 "coords": {
@@ -32551,7 +32553,7 @@
                 }
             },
             "0.2109": {
-                "filename": "https://web.poecdn.com/image/passive-skill/atlas-background-1.jpg?40d6288b",
+                "filename": "https://web.poecdn.com/image/passive-skill/atlas-background-1.jpg?65f5dd27",
                 "w": 863,
                 "h": 832,
                 "coords": {
@@ -32564,7 +32566,7 @@
                 }
             },
             "0.2972": {
-                "filename": "https://web.poecdn.com/image/passive-skill/atlas-background-2.jpg?c8f5a7bc",
+                "filename": "https://web.poecdn.com/image/passive-skill/atlas-background-2.jpg?3e25a85a",
                 "w": 1217,
                 "h": 1173,
                 "coords": {
@@ -32577,7 +32579,7 @@
                 }
             },
             "0.3835": {
-                "filename": "https://web.poecdn.com/image/passive-skill/atlas-background-3.jpg?e73747dc",
+                "filename": "https://web.poecdn.com/image/passive-skill/atlas-background-3.jpg?a3fe6aaf",
                 "w": 1570,
                 "h": 1514,
                 "coords": {
