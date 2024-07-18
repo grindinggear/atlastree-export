@@ -5015,7 +5015,7 @@
             "name": "Map Modifier Effect",
             "icon": "Art/2DArt/SkillIcons/passives/AtlasTrees/ModifierTier.png",
             "stats": [
-                "2% increased effect of Modifiers on your Maps"
+                "2% increased effect of Explicit Modifiers on your Maps"
             ],
             "group": 12,
             "orbit": 0,
@@ -5755,7 +5755,7 @@
             "name": "Map Modifier Effect",
             "icon": "Art/2DArt/SkillIcons/passives/AtlasTrees/ModifierTier.png",
             "stats": [
-                "2% increased effect of Modifiers on your Maps"
+                "2% increased effect of Explicit Modifiers on your Maps"
             ],
             "group": 23,
             "orbit": 0,
@@ -5903,7 +5903,7 @@
             "icon": "Art/2DArt/SkillIcons/passives/AtlasTrees/AtlasEinharNotable.png",
             "isNotable": true,
             "stats": [
-                "Red Beasts in your Maps have a 50% chance to break free\nBeasts which break free in your Maps gain Bestial Rage\nDefeating Beasts grants Hunters' Cunning per Bestial Rage on the defeated Beast"
+                "Beasts in your Maps have a 50% chance to break free\nBeasts which break free in your Maps gain Bestial Rage\nDefeating Beasts grants Hunters' Cunning per Bestial Rage on the defeated Beast"
             ],
             "reminderText": [
                 "(Hunters' Cunning grants less damage taken from Beasts, increased damage against Beasts, and increased Quantity and Rarity of items found from slain Beasts)"
@@ -6487,7 +6487,7 @@
             "name": "Map Modifier Effect",
             "icon": "Art/2DArt/SkillIcons/passives/AtlasTrees/ModifierTier.png",
             "stats": [
-                "2% increased effect of Modifiers on your Maps"
+                "2% increased effect of Explicit Modifiers on your Maps"
             ],
             "group": 35,
             "orbit": 0,
@@ -7942,7 +7942,7 @@
             "name": "Map Modifier Effect",
             "icon": "Art/2DArt/SkillIcons/passives/AtlasTrees/ModifierTier.png",
             "stats": [
-                "2% increased effect of Modifiers on your Maps"
+                "2% increased effect of Explicit Modifiers on your Maps"
             ],
             "group": 52,
             "orbit": 0,
@@ -9346,7 +9346,7 @@
             "name": "Map Modifier Effect",
             "icon": "Art/2DArt/SkillIcons/passives/AtlasTrees/ModifierTier.png",
             "stats": [
-                "2% increased effect of Modifiers on your Maps"
+                "2% increased effect of Explicit Modifiers on your Maps"
             ],
             "group": 73,
             "orbit": 0,
@@ -9514,7 +9514,7 @@
             "name": "Map Modifier Effect",
             "icon": "Art/2DArt/SkillIcons/passives/AtlasTrees/ModifierTier.png",
             "stats": [
-                "3% increased effect of Modifiers on your Maps"
+                "3% increased effect of Explicit Modifiers on your Maps"
             ],
             "group": 78,
             "orbit": 2,
@@ -9531,7 +9531,7 @@
             "name": "Map Modifier Effect",
             "icon": "Art/2DArt/SkillIcons/passives/AtlasTrees/ModifierTier.png",
             "stats": [
-                "3% increased effect of Modifiers on your Maps"
+                "3% increased effect of Explicit Modifiers on your Maps"
             ],
             "group": 78,
             "orbit": 2,
@@ -9548,7 +9548,7 @@
             "name": "Map Modifier Effect",
             "icon": "Art/2DArt/SkillIcons/passives/AtlasTrees/ModifierTier.png",
             "stats": [
-                "3% increased effect of Modifiers on your Maps"
+                "3% increased effect of Explicit Modifiers on your Maps"
             ],
             "group": 78,
             "orbit": 2,
@@ -9565,7 +9565,7 @@
             "icon": "Art/2DArt/SkillIcons/passives/AtlasTrees/AtlasMapModChiselNotable.png",
             "isNotable": true,
             "stats": [
-                "3% increased effect of Modifiers on your Maps per 5% Map Quality"
+                "3% increased effect of Explicit Modifiers on your Maps per 5% Map Quality"
             ],
             "group": 78,
             "orbit": 2,
@@ -9596,7 +9596,7 @@
             "name": "Map Modifier Effect",
             "icon": "Art/2DArt/SkillIcons/passives/AtlasTrees/ModifierTier.png",
             "stats": [
-                "2% increased effect of Modifiers on your Maps"
+                "2% increased effect of Explicit Modifiers on your Maps"
             ],
             "group": 80,
             "orbit": 0,
@@ -10457,7 +10457,7 @@
             "name": "Map Modifier Effect",
             "icon": "Art/2DArt/SkillIcons/passives/AtlasTrees/ModifierTier.png",
             "stats": [
-                "2% increased effect of Modifiers on your Maps"
+                "2% increased effect of Explicit Modifiers on your Maps"
             ],
             "group": 88,
             "orbit": 0,
@@ -10591,7 +10591,7 @@
             "name": "Map Modifier Effect",
             "icon": "Art/2DArt/SkillIcons/passives/AtlasTrees/ModifierTier.png",
             "stats": [
-                "2% increased effect of Modifiers on your Maps"
+                "2% increased effect of Explicit Modifiers on your Maps"
             ],
             "group": 90,
             "orbit": 0,
@@ -10962,7 +10962,7 @@
             "name": "Map Modifier Effect",
             "icon": "Art/2DArt/SkillIcons/passives/AtlasTrees/ModifierTier.png",
             "stats": [
-                "3% increased effect of Modifiers on your Maps"
+                "3% increased effect of Explicit Modifiers on your Maps"
             ],
             "group": 97,
             "orbit": 2,
@@ -10978,7 +10978,7 @@
             "name": "Map Modifier Effect",
             "icon": "Art/2DArt/SkillIcons/passives/AtlasTrees/ModifierTier.png",
             "stats": [
-                "3% increased effect of Modifiers on your Maps"
+                "3% increased effect of Explicit Modifiers on your Maps"
             ],
             "group": 97,
             "orbit": 2,
@@ -10996,7 +10996,7 @@
             "icon": "Art/2DArt/SkillIcons/passives/AtlasTrees/AtlasMapModGenericNotable.png",
             "isNotable": true,
             "stats": [
-                "2% increased effect of Modifiers on your Maps per Explicit Map Modifier"
+                "2% increased effect of Explicit Modifiers on your Maps per Explicit Modifier"
             ],
             "group": 97,
             "orbit": 2,
@@ -11319,7 +11319,7 @@
             "name": "Map Modifier Effect",
             "icon": "Art/2DArt/SkillIcons/passives/AtlasTrees/ModifierTier.png",
             "stats": [
-                "2% increased effect of Modifiers on your Maps"
+                "2% increased effect of Explicit Modifiers on your Maps"
             ],
             "group": 102,
             "orbit": 0,
@@ -12140,10 +12140,10 @@
             "icon": "Art/2DArt/SkillIcons/passives/AtlasTrees/NewAtlasKeystone3.png",
             "isKeystone": true,
             "stats": [
-                "Your Maps randomly have between 0 to 80% more Modifier Effect\nExtra Content cannot appear in your Maps\nCannot apply Influence to your Maps"
+                "Your Maps randomly have between 0 to 80% more Explicit Modifier Effect\nExtra Content cannot appear in your Maps\nCannot apply Influence to your Maps"
             ],
             "reminderText": [
-                "(Abysses, Beyond Demon Portals, Blight Encounters, Breaches, Expedition Encounters, Harbingers, Legion Encounters, Mirrors of Delirium and Layers of Delirium, Monsters Imprisoned by Essences, Ritual Altars, Rogue Exiles, the Sacred Grove, Shrines, Smuggler's Caches, Strongboxes, Tormented Spirits, Ultimatum Encounters and Alva, Einhar, Jun and Niko Missions are Extra Content)"
+                "(Abysses, Beyond Demon Portals, Blight Encounters, Breaches, Expedition Encounters, Harbingers, Legion Encounters, Mirrors of Delirium and Layers of Delirium, Monsters Imprisoned by Essences, Ritual Altars, Rogue Exiles, the Sacred Grove, Shrines, Smuggler's Caches, Strongboxes, Tempests, Tormented Spirits, Ultimatum Encounters, Wildwood Wisps and Alva, Einhar, Jun and Niko Missions are Extra Content)"
             ],
             "flavourText": [
                 "Some corners of the Atlas remain as they once",
@@ -12737,7 +12737,7 @@
             "name": "Map Modifier Effect",
             "icon": "Art/2DArt/SkillIcons/passives/AtlasTrees/ModifierTier.png",
             "stats": [
-                "2% increased effect of Modifiers on your Maps"
+                "2% increased effect of Explicit Modifiers on your Maps"
             ],
             "group": 120,
             "orbit": 0,
@@ -12757,7 +12757,7 @@
             "icon": "Art/2DArt/SkillIcons/passives/AtlasTrees/DestructivePlay.png",
             "isKeystone": true,
             "stats": [
-                "The Maven casts Up the Stakes, summoning 1 to 3 additional Bosses\nwhen Witnessing Map Bosses\nThe number of additional Bosses summoned is higher if there\nare fewer monsters remaining in the Map\nModifiers to the Final Map Boss in each Map also apply to these summoned Bosses"
+                "The Maven casts Up the Stakes, summoning 1 to 3 additional Atlas Bosses\nwhen Witnessing Map Bosses\nThe number of additional Bosses summoned is higher if there\nare fewer monsters remaining in the Map\nModifiers to the Final Map Boss in each Map also apply to these summoned Bosses"
             ],
             "flavourText": [
                 "She makes the rules up as she goes.",
@@ -13177,7 +13177,7 @@
             "name": "Map Modifier Effect",
             "icon": "Art/2DArt/SkillIcons/passives/AtlasTrees/ModifierTier.png",
             "stats": [
-                "2% increased effect of Modifiers on your Maps"
+                "2% increased effect of Explicit Modifiers on your Maps"
             ],
             "group": 130,
             "orbit": 0,
@@ -13698,7 +13698,7 @@
             "name": "Map Modifier Effect",
             "icon": "Art/2DArt/SkillIcons/passives/AtlasTrees/ModifierTier.png",
             "stats": [
-                "3% increased effect of Modifiers on your Maps"
+                "3% increased effect of Explicit Modifiers on your Maps"
             ],
             "group": 140,
             "orbit": 2,
@@ -13715,7 +13715,7 @@
             "name": "Map Modifier Effect",
             "icon": "Art/2DArt/SkillIcons/passives/AtlasTrees/ModifierTier.png",
             "stats": [
-                "3% increased effect of Modifiers on your Maps"
+                "3% increased effect of Explicit Modifiers on your Maps"
             ],
             "group": 140,
             "orbit": 2,
@@ -13732,7 +13732,7 @@
             "name": "Map Modifier Effect",
             "icon": "Art/2DArt/SkillIcons/passives/AtlasTrees/ModifierTier.png",
             "stats": [
-                "3% increased effect of Modifiers on your Maps"
+                "3% increased effect of Explicit Modifiers on your Maps"
             ],
             "group": 140,
             "orbit": 2,
@@ -14132,7 +14132,7 @@
             "name": "Map Modifier Effect",
             "icon": "Art/2DArt/SkillIcons/passives/AtlasTrees/ModifierTier.png",
             "stats": [
-                "2% increased effect of Modifiers on your Maps"
+                "2% increased effect of Explicit Modifiers on your Maps"
             ],
             "group": 150,
             "orbit": 0,
@@ -14187,7 +14187,7 @@
             "name": "Map Modifier Effect",
             "icon": "Art/2DArt/SkillIcons/passives/AtlasTrees/ModifierTier.png",
             "stats": [
-                "2% increased effect of Modifiers on your Maps"
+                "2% increased effect of Explicit Modifiers on your Maps"
             ],
             "group": 153,
             "orbit": 0,
@@ -15014,7 +15014,7 @@
             "name": "Map Modifier Effect",
             "icon": "Art/2DArt/SkillIcons/passives/AtlasTrees/ModifierTier.png",
             "stats": [
-                "2% increased effect of Modifiers on your Maps"
+                "2% increased effect of Explicit Modifiers on your Maps"
             ],
             "group": 162,
             "orbit": 0,
@@ -15398,7 +15398,7 @@
             "name": "Map Modifier Effect",
             "icon": "Art/2DArt/SkillIcons/passives/AtlasTrees/ModifierTier.png",
             "stats": [
-                "2% increased effect of Modifiers on your Maps"
+                "2% increased effect of Explicit Modifiers on your Maps"
             ],
             "group": 172,
             "orbit": 0,
@@ -16543,7 +16543,7 @@
             "name": "Map Modifier Effect",
             "icon": "Art/2DArt/SkillIcons/passives/AtlasTrees/ModifierTier.png",
             "stats": [
-                "2% increased effect of Modifiers on your Maps"
+                "2% increased effect of Explicit Modifiers on your Maps"
             ],
             "group": 185,
             "orbit": 0,
@@ -17770,7 +17770,7 @@
             "name": "Map Modifier Effect",
             "icon": "Art/2DArt/SkillIcons/passives/AtlasTrees/ModifierTier.png",
             "stats": [
-                "2% increased effect of Modifiers on your Maps"
+                "2% increased effect of Explicit Modifiers on your Maps"
             ],
             "group": 204,
             "orbit": 0,
@@ -18573,7 +18573,7 @@
             "name": "Map Modifier Effect",
             "icon": "Art/2DArt/SkillIcons/passives/AtlasTrees/ModifierTier.png",
             "stats": [
-                "2% increased effect of Modifiers on your Maps"
+                "2% increased effect of Explicit Modifiers on your Maps"
             ],
             "group": 216,
             "orbit": 0,
@@ -19326,7 +19326,7 @@
             "name": "Map Modifier Effect",
             "icon": "Art/2DArt/SkillIcons/passives/AtlasTrees/ModifierTier.png",
             "stats": [
-                "2% increased effect of Modifiers on your Maps"
+                "2% increased effect of Explicit Modifiers on your Maps"
             ],
             "group": 229,
             "orbit": 0,
