@@ -8698,7 +8698,7 @@
             "icon": "Art/2DArt/SkillIcons/passives/AtlasTrees/AnarchyNotable2.png",
             "isNotable": true,
             "stats": [
-                "800% increased Rarity of Items Dropped by Wild Rogue Exiles in your Maps",
+                "50% increased Rarity of Items Dropped by Wild Rogue Exiles in your Maps",
                 "Rogue Exiles in your Maps have 100% more Life"
             ],
             "reminderText": [
@@ -18561,7 +18561,7 @@
             "icon": "Art/2DArt/SkillIcons/passives/AtlasTrees/JunNotable4.png",
             "isNotable": true,
             "stats": [
-                "800% increased Rarity of Items Dropped by Immortal Syndicate Members in your Maps"
+                "50% increased Rarity of Items Dropped by Immortal Syndicate Members in your Maps"
             ],
             "group": 217,
             "orbit": 3,
