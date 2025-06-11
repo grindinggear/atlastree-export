@@ -7401,7 +7401,7 @@
                 "Completing a Blight Encounter in your Maps grants all Players Blightreach"
             ],
             "reminderText": [
-                "(Blightreach grants a chance for Maps found to drop as Blighted Maps instead)"
+                "(Blightreach grants a chance for Maps found to drop as Blighted Maps instead. Blightreach lasts for 60 seconds)"
             ],
             "group": 44,
             "orbit": 2,
@@ -11468,11 +11468,11 @@
         },
         "44872": {
             "skill": 44872,
-            "name": "Singular Carapaces",
+            "name": "Towering Carapaces",
             "icon": "Art/2DArt/SkillIcons/passives/AtlasTrees/ScarabLeaguesUniques.png",
             "isNotable": true,
             "stats": [
-                "Scarabs dropped in your Maps are 100% more likely to be Reliquary Scarabs"
+                "Scarabs dropped in your Maps are 100% more likely to be Titanic Scarabs"
             ],
             "group": 107,
             "orbit": 0,
