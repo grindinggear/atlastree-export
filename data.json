@@ -1169,9 +1169,7 @@
                 "2075",
                 "55173",
                 "25778",
-                "55504",
                 "57336",
-                "2621",
                 "64160"
             ]
         },
@@ -3947,7 +3945,7 @@
             "stats": [
                 "Equipment Items with Rarity dropped by Possessed Monsters in your Maps have 5% chance to be converted to Thaumaturgic Dust",
                 "Sulphite found in your Maps is granted as a random Ore instead at 15% of the value",
-                "Lifeforce found in your Maps is granted as a random Crop instead at 300% of the value"
+                "Lifeforce found in your Maps is granted as a random Crop instead at 150% of the value"
             ],
             "flavourText": [
                 "No form is forged without forfeit."
@@ -9601,9 +9599,7 @@
                 "13448",
                 "55173"
             ],
-            "in": [
-                "55504"
-            ]
+            "in": []
         },
         "55173": {
             "skill": 55173,
@@ -9639,22 +9635,6 @@
                 "55173"
             ]
         },
-        "55504": {
-            "skill": 55504,
-            "name": "Remnant of Corruption Essence Chance",
-            "icon": "Art/2DArt/SkillIcons/passives/AtlasTrees/EssenceNode2.png",
-            "stats": [
-                "Monsters Imprisoned by Essences have a 10% chance to contain a Remnant of Corruption"
-            ],
-            "group": 72,
-            "orbit": 2,
-            "orbitIndex": 5,
-            "out": [
-                "2075",
-                "2621"
-            ],
-            "in": []
-        },
         "57336": {
             "skill": 57336,
             "name": "Crystal Resonance",
@@ -9662,32 +9642,14 @@
             "isNotable": true,
             "stats": [
                 "A Map Boss is granted a random Essence Modifier from any Imprisoned Monsters slain in your Maps",
-                "Using Remnants of Corruption on Imprisoned Monsters in your Maps replaces all Essences with one of the Essences on the Imprisoned Monster"
+                "Using a Vaal Orb on Imprisoned Monsters in your Maps replaces all Essences with one of the Essences on the Imprisoned Monster"
             ],
             "group": 72,
             "orbit": 2,
             "orbitIndex": 0,
             "out": [],
             "in": [
-                "25778",
-                "2621"
-            ]
-        },
-        "2621": {
-            "skill": 2621,
-            "name": "Remnant of Corruption Essence Chance",
-            "icon": "Art/2DArt/SkillIcons/passives/AtlasTrees/EssenceNode2.png",
-            "stats": [
-                "Monsters Imprisoned by Essences have a 10% chance to contain a Remnant of Corruption"
-            ],
-            "group": 72,
-            "orbit": 2,
-            "orbitIndex": 3,
-            "out": [
-                "57336"
-            ],
-            "in": [
-                "55504"
+                "25778"
             ]
         },
         "64160": {
@@ -9994,10 +9956,10 @@
         },
         "2730": {
             "skill": 2730,
-            "name": "Map Modifier Effect",
-            "icon": "Art/2DArt/SkillIcons/passives/AtlasTrees/ModifierTier.png",
+            "name": "Map Magic Monsters",
+            "icon": "Art/2DArt/SkillIcons/passives/AtlasTrees/ItemQuantityandRarity.png",
             "stats": [
-                "3% increased effect of Explicit Modifiers on your Maps"
+                "5% increased number of Magic Monsters in your Maps"
             ],
             "group": 81,
             "orbit": 2,
@@ -10011,10 +9973,10 @@
         },
         "48107": {
             "skill": 48107,
-            "name": "Map Modifier Effect",
-            "icon": "Art/2DArt/SkillIcons/passives/AtlasTrees/ModifierTier.png",
+            "name": "Map Magic Monsters",
+            "icon": "Art/2DArt/SkillIcons/passives/AtlasTrees/ItemQuantityandRarity.png",
             "stats": [
-                "3% increased effect of Explicit Modifiers on your Maps"
+                "5% increased number of Magic Monsters in your Maps"
             ],
             "group": 81,
             "orbit": 2,
@@ -10028,10 +9990,10 @@
         },
         "31240": {
             "skill": 31240,
-            "name": "Map Modifier Effect",
-            "icon": "Art/2DArt/SkillIcons/passives/AtlasTrees/ModifierTier.png",
+            "name": "Map Magic Monsters",
+            "icon": "Art/2DArt/SkillIcons/passives/AtlasTrees/ItemQuantityandRarity.png",
             "stats": [
-                "3% increased effect of Explicit Modifiers on your Maps"
+                "5% increased number of Magic Monsters in your Maps"
             ],
             "group": 81,
             "orbit": 2,
@@ -10076,10 +10038,10 @@
         },
         "13284": {
             "skill": 13284,
-            "name": "Map Modifier Effect",
-            "icon": "Art/2DArt/SkillIcons/passives/AtlasTrees/ModifierTier.png",
+            "name": "Item Rarity",
+            "icon": "Art/2DArt/SkillIcons/passives/AtlasTrees/ItemQuantityandRarity.png",
             "stats": [
-                "2% increased effect of Explicit Modifiers on your Maps"
+                "2% increased Rarity of Items found in your Maps"
             ],
             "group": 83,
             "orbit": 0,
@@ -10552,7 +10514,7 @@
                 "Your Maps have +2% chance to contain other Extra Content that can\nbe turned off through Atlas Passives"
             ],
             "reminderText": [
-                "(Abysses, Blight Encounters, Breaches, Expedition Encounters, Legion Encounters, Mirrors of Delirium, Ore Deposits, Ritual Altars, the Sacred Grove, Smuggler's Caches, and Ultimatum Encounters are Extra Content that can be turned off through Atlas Passives)"
+                "(Abysses, Blight Encounters, Breaches (in Standard Leagues only), Expedition Encounters, Legion Encounters, Mirrors of Delirium, Ore Deposits, Ritual Altars, the Sacred Grove, Smuggler's Caches (in Keepers Leagues only), and Ultimatum Encounters are Extra Content that can be turned off through Atlas Passives.)"
             ],
             "group": 87,
             "orbit": 3,
@@ -10573,7 +10535,7 @@
                 "Your Maps have +2% chance to contain other Extra Content that can\nbe turned off through Atlas Passives"
             ],
             "reminderText": [
-                "(Abysses, Blight Encounters, Breaches, Expedition Encounters, Legion Encounters, Mirrors of Delirium, Ore Deposits, Ritual Altars, the Sacred Grove, Smuggler's Caches, and Ultimatum Encounters are Extra Content that can be turned off through Atlas Passives)"
+                "(Abysses, Blight Encounters, Breaches (in Standard Leagues only), Expedition Encounters, Legion Encounters, Mirrors of Delirium, Ore Deposits, Ritual Altars, the Sacred Grove, Smuggler's Caches (in Keepers Leagues only), and Ultimatum Encounters are Extra Content that can be turned off through Atlas Passives.)"
             ],
             "group": 87,
             "orbit": 3,
@@ -10594,7 +10556,7 @@
                 "Your Maps have +2% chance to contain other Extra Content that can\nbe turned off through Atlas Passives"
             ],
             "reminderText": [
-                "(Abysses, Blight Encounters, Breaches, Expedition Encounters, Legion Encounters, Mirrors of Delirium, Ore Deposits, Ritual Altars, the Sacred Grove, Smuggler's Caches, and Ultimatum Encounters are Extra Content that can be turned off through Atlas Passives)"
+                "(Abysses, Blight Encounters, Breaches (in Standard Leagues only), Expedition Encounters, Legion Encounters, Mirrors of Delirium, Ore Deposits, Ritual Altars, the Sacred Grove, Smuggler's Caches (in Keepers Leagues only), and Ultimatum Encounters are Extra Content that can be turned off through Atlas Passives.)"
             ],
             "group": 87,
             "orbit": 3,
@@ -10615,7 +10577,7 @@
                 "Your Maps have +2% chance to contain other Extra Content that can\nbe turned off through Atlas Passives"
             ],
             "reminderText": [
-                "(Abysses, Blight Encounters, Breaches, Expedition Encounters, Legion Encounters, Mirrors of Delirium, Ore Deposits, Ritual Altars, the Sacred Grove, Smuggler's Caches, and Ultimatum Encounters are Extra Content that can be turned off through Atlas Passives)"
+                "(Abysses, Blight Encounters, Breaches (in Standard Leagues only), Expedition Encounters, Legion Encounters, Mirrors of Delirium, Ore Deposits, Ritual Altars, the Sacred Grove, Smuggler's Caches (in Keepers Leagues only), and Ultimatum Encounters are Extra Content that can be turned off through Atlas Passives.)"
             ],
             "group": 87,
             "orbit": 3,
@@ -10636,7 +10598,7 @@
                 "Your Maps have +2% chance to contain other Extra Content that can\nbe turned off through Atlas Passives"
             ],
             "reminderText": [
-                "(Abysses, Blight Encounters, Breaches, Expedition Encounters, Legion Encounters, Mirrors of Delirium, Ore Deposits, Ritual Altars, the Sacred Grove, Smuggler's Caches, and Ultimatum Encounters are Extra Content that can be turned off through Atlas Passives)"
+                "(Abysses, Blight Encounters, Breaches (in Standard Leagues only), Expedition Encounters, Legion Encounters, Mirrors of Delirium, Ore Deposits, Ritual Altars, the Sacred Grove, Smuggler's Caches (in Keepers Leagues only), and Ultimatum Encounters are Extra Content that can be turned off through Atlas Passives.)"
             ],
             "group": 87,
             "orbit": 3,
@@ -10945,10 +10907,10 @@
         },
         "3939": {
             "skill": 3939,
-            "name": "Map Modifier Effect",
-            "icon": "Art/2DArt/SkillIcons/passives/AtlasTrees/ModifierTier.png",
+            "name": "Item Rarity",
+            "icon": "Art/2DArt/SkillIcons/passives/AtlasTrees/ItemQuantityandRarity.png",
             "stats": [
-                "2% increased effect of Explicit Modifiers on your Maps"
+                "2% increased Rarity of Items found in your Maps"
             ],
             "group": 91,
             "orbit": 0,
@@ -11327,7 +11289,7 @@
             "icon": "Art/2DArt/SkillIcons/passives/AtlasTrees/BlightNotable3.png",
             "isNotable": true,
             "stats": [
-                "Blight Bosses in your Maps have 10% chance to add an additional Reward Chest when Defeated",
+                "Blight Bosses in your Maps have 10% chance to add an additional Reward Chest to their Lane",
                 "1 Lane of Blight Encounters in your Maps is guarded only by Blight Bosses"
             ],
             "group": 98,
@@ -11343,7 +11305,7 @@
             "name": "Blight Boss Additional Reward",
             "icon": "Art/2DArt/SkillIcons/passives/AtlasTrees/BlightNode1.png",
             "stats": [
-                "Blight Bosses in your Maps have 5% chance to add an additional Reward Chest when Defeated"
+                "Blight Bosses in your Maps have 5% chance to add an additional Reward Chest to their Lane"
             ],
             "group": 98,
             "orbit": 2,
@@ -11360,7 +11322,7 @@
             "name": "Blight Boss Additional Reward",
             "icon": "Art/2DArt/SkillIcons/passives/AtlasTrees/BlightNode1.png",
             "stats": [
-                "Blight Bosses in your Maps have 5% chance to add an additional Reward Chest when Defeated"
+                "Blight Bosses in your Maps have 5% chance to add an additional Reward Chest to their Lane"
             ],
             "group": 98,
             "orbit": 2,
@@ -11376,7 +11338,7 @@
             "name": "Blight Boss Additional Reward",
             "icon": "Art/2DArt/SkillIcons/passives/AtlasTrees/BlightNode1.png",
             "stats": [
-                "Blight Bosses in your Maps have 5% chance to add an additional Reward Chest when Defeated"
+                "Blight Bosses in your Maps have 5% chance to add an additional Reward Chest to their Lane"
             ],
             "group": 98,
             "orbit": 2,
@@ -11393,7 +11355,7 @@
             "name": "Blight Boss Additional Reward",
             "icon": "Art/2DArt/SkillIcons/passives/AtlasTrees/BlightNode1.png",
             "stats": [
-                "Blight Bosses in your Maps have 5% chance to add an additional Reward Chest when Defeated"
+                "Blight Bosses in your Maps have 5% chance to add an additional Reward Chest to their Lane"
             ],
             "group": 98,
             "orbit": 2,
@@ -11451,10 +11413,10 @@
         },
         "38692": {
             "skill": 38692,
-            "name": "Map Modifier Effect",
-            "icon": "Art/2DArt/SkillIcons/passives/AtlasTrees/ModifierTier.png",
+            "name": "Map Rare Monsters",
+            "icon": "Art/2DArt/SkillIcons/passives/AtlasTrees/ItemQuantityandRarity.png",
             "stats": [
-                "3% increased effect of Explicit Modifiers on your Maps"
+                "5% increased number of Rare Monsters in your Maps"
             ],
             "group": 100,
             "orbit": 2,
@@ -11467,10 +11429,10 @@
         },
         "29088": {
             "skill": 29088,
-            "name": "Map Modifier Effect",
-            "icon": "Art/2DArt/SkillIcons/passives/AtlasTrees/ModifierTier.png",
+            "name": "Map Rare Monsters",
+            "icon": "Art/2DArt/SkillIcons/passives/AtlasTrees/ItemQuantityandRarity.png",
             "stats": [
-                "3% increased effect of Explicit Modifiers on your Maps"
+                "5% increased number of Rare Monsters in your Maps"
             ],
             "group": 100,
             "orbit": 2,
@@ -12395,7 +12357,7 @@
             "icon": "Art/2DArt/SkillIcons/passives/AtlasTrees/ItemQuantityandRarity.png",
             "stats": [
                 "1% increased Quantity of Items found in your Maps",
-                "5% increased Rarity of Items found in your Maps"
+                "2% increased Rarity of Items found in your Maps"
             ],
             "group": 115,
             "orbit": 2,
@@ -12414,7 +12376,7 @@
             "icon": "Art/2DArt/SkillIcons/passives/AtlasTrees/ItemQuantityandRarity.png",
             "stats": [
                 "1% increased Quantity of Items found in your Maps",
-                "5% increased Rarity of Items found in your Maps"
+                "2% increased Rarity of Items found in your Maps"
             ],
             "group": 115,
             "orbit": 2,
@@ -12433,7 +12395,7 @@
             "icon": "Art/2DArt/SkillIcons/passives/AtlasTrees/ItemQuantityandRarity.png",
             "stats": [
                 "1% increased Quantity of Items found in your Maps",
-                "5% increased Rarity of Items found in your Maps"
+                "2% increased Rarity of Items found in your Maps"
             ],
             "group": 115,
             "orbit": 2,
@@ -13730,7 +13692,7 @@
             "name": "Domination Shrine Duration",
             "icon": "Art/2DArt/SkillIcons/passives/AtlasTrees/ShrinesNode.png",
             "stats": [
-                "25% increased Duration of Shrine Effects on Players in your Maps"
+                "25% increased duration of Shrine Buffs on players granted by Shrines in your Maps"
             ],
             "group": 128,
             "orbit": 2,
@@ -13747,7 +13709,7 @@
             "name": "Domination Shrine Duration",
             "icon": "Art/2DArt/SkillIcons/passives/AtlasTrees/ShrinesNode.png",
             "stats": [
-                "25% increased Duration of Shrine Effects on Players in your Maps"
+                "25% increased duration of Shrine Buffs on players granted by Shrines in your Maps"
             ],
             "group": 128,
             "orbit": 2,
@@ -13780,7 +13742,7 @@
             "name": "Domination Shrine Duration",
             "icon": "Art/2DArt/SkillIcons/passives/AtlasTrees/ShrinesNode.png",
             "stats": [
-                "25% increased Duration of Shrine Effects on Players in your Maps"
+                "25% increased duration of Shrine Buffs on players granted by Shrines in your Maps"
             ],
             "group": 128,
             "orbit": 2,
@@ -14481,10 +14443,10 @@
         },
         "58167": {
             "skill": 58167,
-            "name": "Map Modifier Effect",
-            "icon": "Art/2DArt/SkillIcons/passives/AtlasTrees/ModifierTier.png",
+            "name": "Map Pack Size",
+            "icon": "Art/2DArt/SkillIcons/passives/AtlasTrees/ItemQuantity.png",
             "stats": [
-                "3% increased effect of Explicit Modifiers on your Maps"
+                "1% increased Pack Size in your Maps"
             ],
             "group": 141,
             "orbit": 2,
@@ -14498,10 +14460,10 @@
         },
         "10944": {
             "skill": 10944,
-            "name": "Map Modifier Effect",
-            "icon": "Art/2DArt/SkillIcons/passives/AtlasTrees/ModifierTier.png",
+            "name": "Map Pack Size",
+            "icon": "Art/2DArt/SkillIcons/passives/AtlasTrees/ItemQuantity.png",
             "stats": [
-                "3% increased effect of Explicit Modifiers on your Maps"
+                "1% increased Pack Size in your Maps"
             ],
             "group": 141,
             "orbit": 2,
@@ -14515,10 +14477,10 @@
         },
         "37913": {
             "skill": 37913,
-            "name": "Map Modifier Effect",
-            "icon": "Art/2DArt/SkillIcons/passives/AtlasTrees/ModifierTier.png",
+            "name": "Map Pack Size",
+            "icon": "Art/2DArt/SkillIcons/passives/AtlasTrees/ItemQuantity.png",
             "stats": [
-                "3% increased effect of Explicit Modifiers on your Maps"
+                "1% increased Pack Size in your Maps"
             ],
             "group": 141,
             "orbit": 2,
@@ -14603,7 +14565,7 @@
             "name": "Domination Shrine Effect",
             "icon": "Art/2DArt/SkillIcons/passives/AtlasTrees/ShrinesNode.png",
             "stats": [
-                "20% increased Effect of Shrine Buffs on Players in your Maps"
+                "20% increased effect of Shrine Buffs on players granted by Shrines in your Maps"
             ],
             "group": 142,
             "orbit": 2,
@@ -14621,7 +14583,7 @@
             "icon": "Art/2DArt/SkillIcons/passives/AtlasTrees/Shrines.png",
             "isNotable": true,
             "stats": [
-                "30% increased Effect of Shrine Buffs on Players in your Maps",
+                "30% increased effect of Shrine Buffs on players granted by Shrines in your Maps",
                 "Shrines in your Maps grant a random additional Shrine Effect"
             ],
             "group": 142,
@@ -14757,7 +14719,7 @@
             "icon": "Art/2DArt/SkillIcons/passives/AtlasTrees/DelveNotable4.png",
             "isNotable": true,
             "stats": [
-                "Sulphite Veins and Chests in your Maps have 10% chance to also contain an equal amount of Azurite"
+                "Voltaxic Sulphite Veins and Chests in your Maps have 15% chance to contain double Sulphite"
             ],
             "group": 146,
             "orbit": 3,
@@ -14934,10 +14896,10 @@
         },
         "26601": {
             "skill": 26601,
-            "name": "Map Modifier Effect",
-            "icon": "Art/2DArt/SkillIcons/passives/AtlasTrees/ModifierTier.png",
+            "name": "Item Rarity",
+            "icon": "Art/2DArt/SkillIcons/passives/AtlasTrees/ItemQuantityandRarity.png",
             "stats": [
-                "2% increased effect of Explicit Modifiers on your Maps"
+                "2% increased Rarity of Items found in your Maps"
             ],
             "group": 152,
             "orbit": 0,
@@ -15500,7 +15462,7 @@
                 "Your Maps have +2% chance to contain other Extra Content that can\nbe turned off through Atlas Passives"
             ],
             "reminderText": [
-                "(Abysses, Blight Encounters, Breaches, Expedition Encounters, Legion Encounters, Mirrors of Delirium, Ore Deposits, Ritual Altars, the Sacred Grove, Smuggler's Caches, and Ultimatum Encounters are Extra Content that can be turned off through Atlas Passives)"
+                "(Abysses, Blight Encounters, Breaches (in Standard Leagues only), Expedition Encounters, Legion Encounters, Mirrors of Delirium, Ore Deposits, Ritual Altars, the Sacred Grove, Smuggler's Caches (in Keepers Leagues only), and Ultimatum Encounters are Extra Content that can be turned off through Atlas Passives.)"
             ],
             "group": 159,
             "orbit": 3,
@@ -15521,7 +15483,7 @@
                 "Your Maps have +2% chance to contain other Extra Content that can\nbe turned off through Atlas Passives"
             ],
             "reminderText": [
-                "(Abysses, Blight Encounters, Breaches, Expedition Encounters, Legion Encounters, Mirrors of Delirium, Ore Deposits, Ritual Altars, the Sacred Grove, Smuggler's Caches, and Ultimatum Encounters are Extra Content that can be turned off through Atlas Passives)"
+                "(Abysses, Blight Encounters, Breaches (in Standard Leagues only), Expedition Encounters, Legion Encounters, Mirrors of Delirium, Ore Deposits, Ritual Altars, the Sacred Grove, Smuggler's Caches (in Keepers Leagues only), and Ultimatum Encounters are Extra Content that can be turned off through Atlas Passives.)"
             ],
             "group": 159,
             "orbit": 3,
@@ -15542,7 +15504,7 @@
                 "Your Maps have +2% chance to contain other Extra Content that can\nbe turned off through Atlas Passives"
             ],
             "reminderText": [
-                "(Abysses, Blight Encounters, Breaches, Expedition Encounters, Legion Encounters, Mirrors of Delirium, Ore Deposits, Ritual Altars, the Sacred Grove, Smuggler's Caches, and Ultimatum Encounters are Extra Content that can be turned off through Atlas Passives)"
+                "(Abysses, Blight Encounters, Breaches (in Standard Leagues only), Expedition Encounters, Legion Encounters, Mirrors of Delirium, Ore Deposits, Ritual Altars, the Sacred Grove, Smuggler's Caches (in Keepers Leagues only), and Ultimatum Encounters are Extra Content that can be turned off through Atlas Passives.)"
             ],
             "group": 159,
             "orbit": 3,
@@ -15563,7 +15525,7 @@
                 "Your Maps have +2% chance to contain other Extra Content that can\nbe turned off through Atlas Passives"
             ],
             "reminderText": [
-                "(Abysses, Blight Encounters, Breaches, Expedition Encounters, Legion Encounters, Mirrors of Delirium, Ore Deposits, Ritual Altars, the Sacred Grove, Smuggler's Caches, and Ultimatum Encounters are Extra Content that can be turned off through Atlas Passives)"
+                "(Abysses, Blight Encounters, Breaches (in Standard Leagues only), Expedition Encounters, Legion Encounters, Mirrors of Delirium, Ore Deposits, Ritual Altars, the Sacred Grove, Smuggler's Caches (in Keepers Leagues only), and Ultimatum Encounters are Extra Content that can be turned off through Atlas Passives.)"
             ],
             "group": 159,
             "orbit": 3,
@@ -15584,7 +15546,7 @@
                 "Your Maps have +2% chance to contain other Extra Content that can\nbe turned off through Atlas Passives"
             ],
             "reminderText": [
-                "(Abysses, Blight Encounters, Breaches, Expedition Encounters, Legion Encounters, Mirrors of Delirium, Ore Deposits, Ritual Altars, the Sacred Grove, Smuggler's Caches, and Ultimatum Encounters are Extra Content that can be turned off through Atlas Passives)"
+                "(Abysses, Blight Encounters, Breaches (in Standard Leagues only), Expedition Encounters, Legion Encounters, Mirrors of Delirium, Ore Deposits, Ritual Altars, the Sacred Grove, Smuggler's Caches (in Keepers Leagues only), and Ultimatum Encounters are Extra Content that can be turned off through Atlas Passives.)"
             ],
             "group": 159,
             "orbit": 3,
@@ -15756,10 +15718,10 @@
         },
         "12291": {
             "skill": 12291,
-            "name": "Map Modifier Effect",
-            "icon": "Art/2DArt/SkillIcons/passives/AtlasTrees/ModifierTier.png",
+            "name": "Item Rarity",
+            "icon": "Art/2DArt/SkillIcons/passives/AtlasTrees/ItemQuantityandRarity.png",
             "stats": [
-                "2% increased effect of Explicit Modifiers on your Maps"
+                "2% increased Rarity of Items found in your Maps"
             ],
             "group": 162,
             "orbit": 0,
@@ -18853,7 +18815,6 @@
             "icon": "Art/2DArt/SkillIcons/passives/AtlasTrees/DelveNotable1.png",
             "isNotable": true,
             "stats": [
-                "Voltaxic Sulphite Veins and Chests in your Maps have 5% chance to contain double Sulphite",
                 "Voltaxic Sulphite Veins and Chests in your Maps are guarded by Sulphite-hoarding Monsters"
             ],
             "group": 213,
@@ -21459,7 +21420,7 @@
         },
         "normalActive": {
             "0.1246": {
-                "filename": "https://web.poecdn.com/image/passive-skill/atlas-skills-0.jpg?15aaac0d",
+                "filename": "https://web.poecdn.com/image/passive-skill/atlas-skills-0.jpg?3307f096",
                 "w": 180,
                 "h": 264,
                 "coords": {
@@ -21778,7 +21739,7 @@
                 }
             },
             "0.2109": {
-                "filename": "https://web.poecdn.com/image/passive-skill/atlas-skills-1.jpg?3cc6bf27",
+                "filename": "https://web.poecdn.com/image/passive-skill/atlas-skills-1.jpg?7e230e67",
                 "w": 300,
                 "h": 445,
                 "coords": {
@@ -22097,7 +22058,7 @@
                 }
             },
             "0.2972": {
-                "filename": "https://web.poecdn.com/image/passive-skill/atlas-skills-2.jpg?660d86ea",
+                "filename": "https://web.poecdn.com/image/passive-skill/atlas-skills-2.jpg?4b42c4bd",
                 "w": 435,
                 "h": 640,
                 "coords": {
@@ -22416,7 +22377,7 @@
                 }
             },
             "0.3835": {
-                "filename": "https://web.poecdn.com/image/passive-skill/atlas-skills-3.jpg?a3dc5ec8",
+                "filename": "https://web.poecdn.com/image/passive-skill/atlas-skills-3.jpg?8dd6383d",
                 "w": 555,
                 "h": 821,
                 "coords": {
@@ -22737,7 +22698,7 @@
         },
         "notableActive": {
             "0.1246": {
-                "filename": "https://web.poecdn.com/image/passive-skill/atlas-skills-0.jpg?15aaac0d",
+                "filename": "https://web.poecdn.com/image/passive-skill/atlas-skills-0.jpg?3307f096",
                 "w": 180,
                 "h": 264,
                 "coords": {
@@ -23941,38 +23902,44 @@
                         "w": 12,
                         "h": 12
                     },
-                    "Art/2DArt/SkillIcons/passives/AtlasTrees/WheelofDisablingLegion.png": {
+                    "Art/2DArt/SkillIcons/passives/AtlasTrees/WheelofDisablingHeist.png": {
                         "x": 60,
                         "y": 180,
                         "w": 12,
                         "h": 12
                     },
-                    "Art/2DArt/SkillIcons/passives/AtlasTrees/WheelofDisablingOreDesposits.png": {
+                    "Art/2DArt/SkillIcons/passives/AtlasTrees/WheelofDisablingLegion.png": {
                         "x": 72,
                         "y": 180,
                         "w": 12,
                         "h": 12
                     },
-                    "Art/2DArt/SkillIcons/passives/AtlasTrees/WheelofDisablingRitual.png": {
+                    "Art/2DArt/SkillIcons/passives/AtlasTrees/WheelofDisablingOreDesposits.png": {
                         "x": 84,
                         "y": 180,
                         "w": 12,
                         "h": 12
                     },
-                    "Art/2DArt/SkillIcons/passives/AtlasTrees/WheelofDisablingUltimatum.png": {
+                    "Art/2DArt/SkillIcons/passives/AtlasTrees/WheelofDisablingRitual.png": {
                         "x": 96,
                         "y": 180,
                         "w": 12,
                         "h": 12
                     },
-                    "Art/2DArt/SkillIcons/passives/AtlasTrees/WingedScarabPassiveNotable.png": {
+                    "Art/2DArt/SkillIcons/passives/AtlasTrees/WheelofDisablingUltimatum.png": {
                         "x": 108,
                         "y": 180,
                         "w": 12,
                         "h": 12
                     },
-                    "Art/2DArt/SkillIcons/passives/AtlasTrees/XophFireNotable.png": {
+                    "Art/2DArt/SkillIcons/passives/AtlasTrees/WingedScarabPassiveNotable.png": {
                         "x": 120,
+                        "y": 180,
+                        "w": 12,
+                        "h": 12
+                    },
+                    "Art/2DArt/SkillIcons/passives/AtlasTrees/XophFireNotable.png": {
+                        "x": 132,
                         "y": 180,
                         "w": 12,
                         "h": 12
@@ -23980,7 +23947,7 @@
                 }
             },
             "0.2109": {
-                "filename": "https://web.poecdn.com/image/passive-skill/atlas-skills-1.jpg?3cc6bf27",
+                "filename": "https://web.poecdn.com/image/passive-skill/atlas-skills-1.jpg?7e230e67",
                 "w": 300,
                 "h": 445,
                 "coords": {
@@ -25184,38 +25151,44 @@
                         "w": 20,
                         "h": 20
                     },
-                    "Art/2DArt/SkillIcons/passives/AtlasTrees/WheelofDisablingLegion.png": {
+                    "Art/2DArt/SkillIcons/passives/AtlasTrees/WheelofDisablingHeist.png": {
                         "x": 100,
                         "y": 302,
                         "w": 20,
                         "h": 20
                     },
-                    "Art/2DArt/SkillIcons/passives/AtlasTrees/WheelofDisablingOreDesposits.png": {
+                    "Art/2DArt/SkillIcons/passives/AtlasTrees/WheelofDisablingLegion.png": {
                         "x": 120,
                         "y": 302,
                         "w": 20,
                         "h": 20
                     },
-                    "Art/2DArt/SkillIcons/passives/AtlasTrees/WheelofDisablingRitual.png": {
+                    "Art/2DArt/SkillIcons/passives/AtlasTrees/WheelofDisablingOreDesposits.png": {
                         "x": 140,
                         "y": 302,
                         "w": 20,
                         "h": 20
                     },
-                    "Art/2DArt/SkillIcons/passives/AtlasTrees/WheelofDisablingUltimatum.png": {
+                    "Art/2DArt/SkillIcons/passives/AtlasTrees/WheelofDisablingRitual.png": {
                         "x": 160,
                         "y": 302,
                         "w": 20,
                         "h": 20
                     },
-                    "Art/2DArt/SkillIcons/passives/AtlasTrees/WingedScarabPassiveNotable.png": {
+                    "Art/2DArt/SkillIcons/passives/AtlasTrees/WheelofDisablingUltimatum.png": {
                         "x": 180,
                         "y": 302,
                         "w": 20,
                         "h": 20
                     },
-                    "Art/2DArt/SkillIcons/passives/AtlasTrees/XophFireNotable.png": {
+                    "Art/2DArt/SkillIcons/passives/AtlasTrees/WingedScarabPassiveNotable.png": {
                         "x": 200,
+                        "y": 302,
+                        "w": 20,
+                        "h": 20
+                    },
+                    "Art/2DArt/SkillIcons/passives/AtlasTrees/XophFireNotable.png": {
+                        "x": 220,
                         "y": 302,
                         "w": 20,
                         "h": 20
@@ -25223,7 +25196,7 @@
                 }
             },
             "0.2972": {
-                "filename": "https://web.poecdn.com/image/passive-skill/atlas-skills-2.jpg?660d86ea",
+                "filename": "https://web.poecdn.com/image/passive-skill/atlas-skills-2.jpg?4b42c4bd",
                 "w": 435,
                 "h": 640,
                 "coords": {
@@ -26427,38 +26400,44 @@
                         "w": 29,
                         "h": 29
                     },
-                    "Art/2DArt/SkillIcons/passives/AtlasTrees/WheelofDisablingLegion.png": {
+                    "Art/2DArt/SkillIcons/passives/AtlasTrees/WheelofDisablingHeist.png": {
                         "x": 145,
                         "y": 437,
                         "w": 29,
                         "h": 29
                     },
-                    "Art/2DArt/SkillIcons/passives/AtlasTrees/WheelofDisablingOreDesposits.png": {
+                    "Art/2DArt/SkillIcons/passives/AtlasTrees/WheelofDisablingLegion.png": {
                         "x": 174,
                         "y": 437,
                         "w": 29,
                         "h": 29
                     },
-                    "Art/2DArt/SkillIcons/passives/AtlasTrees/WheelofDisablingRitual.png": {
+                    "Art/2DArt/SkillIcons/passives/AtlasTrees/WheelofDisablingOreDesposits.png": {
                         "x": 203,
                         "y": 437,
                         "w": 29,
                         "h": 29
                     },
-                    "Art/2DArt/SkillIcons/passives/AtlasTrees/WheelofDisablingUltimatum.png": {
+                    "Art/2DArt/SkillIcons/passives/AtlasTrees/WheelofDisablingRitual.png": {
                         "x": 232,
                         "y": 437,
                         "w": 29,
                         "h": 29
                     },
-                    "Art/2DArt/SkillIcons/passives/AtlasTrees/WingedScarabPassiveNotable.png": {
+                    "Art/2DArt/SkillIcons/passives/AtlasTrees/WheelofDisablingUltimatum.png": {
                         "x": 261,
                         "y": 437,
                         "w": 29,
                         "h": 29
                     },
-                    "Art/2DArt/SkillIcons/passives/AtlasTrees/XophFireNotable.png": {
+                    "Art/2DArt/SkillIcons/passives/AtlasTrees/WingedScarabPassiveNotable.png": {
                         "x": 290,
+                        "y": 437,
+                        "w": 29,
+                        "h": 29
+                    },
+                    "Art/2DArt/SkillIcons/passives/AtlasTrees/XophFireNotable.png": {
+                        "x": 319,
                         "y": 437,
                         "w": 29,
                         "h": 29
@@ -26466,7 +26445,7 @@
                 }
             },
             "0.3835": {
-                "filename": "https://web.poecdn.com/image/passive-skill/atlas-skills-3.jpg?a3dc5ec8",
+                "filename": "https://web.poecdn.com/image/passive-skill/atlas-skills-3.jpg?8dd6383d",
                 "w": 555,
                 "h": 821,
                 "coords": {
@@ -27670,38 +27649,44 @@
                         "w": 37,
                         "h": 37
                     },
-                    "Art/2DArt/SkillIcons/passives/AtlasTrees/WheelofDisablingLegion.png": {
+                    "Art/2DArt/SkillIcons/passives/AtlasTrees/WheelofDisablingHeist.png": {
                         "x": 185,
                         "y": 559,
                         "w": 37,
                         "h": 37
                     },
-                    "Art/2DArt/SkillIcons/passives/AtlasTrees/WheelofDisablingOreDesposits.png": {
+                    "Art/2DArt/SkillIcons/passives/AtlasTrees/WheelofDisablingLegion.png": {
                         "x": 222,
                         "y": 559,
                         "w": 37,
                         "h": 37
                     },
-                    "Art/2DArt/SkillIcons/passives/AtlasTrees/WheelofDisablingRitual.png": {
+                    "Art/2DArt/SkillIcons/passives/AtlasTrees/WheelofDisablingOreDesposits.png": {
                         "x": 259,
                         "y": 559,
                         "w": 37,
                         "h": 37
                     },
-                    "Art/2DArt/SkillIcons/passives/AtlasTrees/WheelofDisablingUltimatum.png": {
+                    "Art/2DArt/SkillIcons/passives/AtlasTrees/WheelofDisablingRitual.png": {
                         "x": 296,
                         "y": 559,
                         "w": 37,
                         "h": 37
                     },
-                    "Art/2DArt/SkillIcons/passives/AtlasTrees/WingedScarabPassiveNotable.png": {
+                    "Art/2DArt/SkillIcons/passives/AtlasTrees/WheelofDisablingUltimatum.png": {
                         "x": 333,
                         "y": 559,
                         "w": 37,
                         "h": 37
                     },
-                    "Art/2DArt/SkillIcons/passives/AtlasTrees/XophFireNotable.png": {
+                    "Art/2DArt/SkillIcons/passives/AtlasTrees/WingedScarabPassiveNotable.png": {
                         "x": 370,
+                        "y": 559,
+                        "w": 37,
+                        "h": 37
+                    },
+                    "Art/2DArt/SkillIcons/passives/AtlasTrees/XophFireNotable.png": {
+                        "x": 407,
                         "y": 559,
                         "w": 37,
                         "h": 37
@@ -27711,7 +27696,7 @@
         },
         "keystoneActive": {
             "0.1246": {
-                "filename": "https://web.poecdn.com/image/passive-skill/atlas-skills-0.jpg?15aaac0d",
+                "filename": "https://web.poecdn.com/image/passive-skill/atlas-skills-0.jpg?3307f096",
                 "w": 180,
                 "h": 264,
                 "coords": {
@@ -27874,7 +27859,7 @@
                 }
             },
             "0.2109": {
-                "filename": "https://web.poecdn.com/image/passive-skill/atlas-skills-1.jpg?3cc6bf27",
+                "filename": "https://web.poecdn.com/image/passive-skill/atlas-skills-1.jpg?7e230e67",
                 "w": 300,
                 "h": 445,
                 "coords": {
@@ -28037,7 +28022,7 @@
                 }
             },
             "0.2972": {
-                "filename": "https://web.poecdn.com/image/passive-skill/atlas-skills-2.jpg?660d86ea",
+                "filename": "https://web.poecdn.com/image/passive-skill/atlas-skills-2.jpg?4b42c4bd",
                 "w": 435,
                 "h": 640,
                 "coords": {
@@ -28200,7 +28185,7 @@
                 }
             },
             "0.3835": {
-                "filename": "https://web.poecdn.com/image/passive-skill/atlas-skills-3.jpg?a3dc5ec8",
+                "filename": "https://web.poecdn.com/image/passive-skill/atlas-skills-3.jpg?8dd6383d",
                 "w": 555,
                 "h": 821,
                 "coords": {
@@ -28365,7 +28350,7 @@
         },
         "wormholeActive": {
             "0.1246": {
-                "filename": "https://web.poecdn.com/image/passive-skill/atlas-skills-0.jpg?15aaac0d",
+                "filename": "https://web.poecdn.com/image/passive-skill/atlas-skills-0.jpg?3307f096",
                 "w": 180,
                 "h": 264,
                 "coords": {
@@ -28378,7 +28363,7 @@
                 }
             },
             "0.2109": {
-                "filename": "https://web.poecdn.com/image/passive-skill/atlas-skills-1.jpg?3cc6bf27",
+                "filename": "https://web.poecdn.com/image/passive-skill/atlas-skills-1.jpg?7e230e67",
                 "w": 300,
                 "h": 445,
                 "coords": {
@@ -28391,7 +28376,7 @@
                 }
             },
             "0.2972": {
-                "filename": "https://web.poecdn.com/image/passive-skill/atlas-skills-2.jpg?660d86ea",
+                "filename": "https://web.poecdn.com/image/passive-skill/atlas-skills-2.jpg?4b42c4bd",
                 "w": 435,
                 "h": 640,
                 "coords": {
@@ -28404,7 +28389,7 @@
                 }
             },
             "0.3835": {
-                "filename": "https://web.poecdn.com/image/passive-skill/atlas-skills-3.jpg?a3dc5ec8",
+                "filename": "https://web.poecdn.com/image/passive-skill/atlas-skills-3.jpg?8dd6383d",
                 "w": 555,
                 "h": 821,
                 "coords": {
@@ -28419,7 +28404,7 @@
         },
         "normalInactive": {
             "0.1246": {
-                "filename": "https://web.poecdn.com/image/passive-skill/atlas-skills-disabled-0.jpg?de6b086c",
+                "filename": "https://web.poecdn.com/image/passive-skill/atlas-skills-disabled-0.jpg?e34505cc",
                 "w": 180,
                 "h": 264,
                 "coords": {
@@ -28738,7 +28723,7 @@
                 }
             },
             "0.2109": {
-                "filename": "https://web.poecdn.com/image/passive-skill/atlas-skills-disabled-1.jpg?2758d2c4",
+                "filename": "https://web.poecdn.com/image/passive-skill/atlas-skills-disabled-1.jpg?b238141f",
                 "w": 300,
                 "h": 445,
                 "coords": {
@@ -29057,7 +29042,7 @@
                 }
             },
             "0.2972": {
-                "filename": "https://web.poecdn.com/image/passive-skill/atlas-skills-disabled-2.jpg?7b568572",
+                "filename": "https://web.poecdn.com/image/passive-skill/atlas-skills-disabled-2.jpg?5daf39d1",
                 "w": 435,
                 "h": 640,
                 "coords": {
@@ -29376,7 +29361,7 @@
                 }
             },
             "0.3835": {
-                "filename": "https://web.poecdn.com/image/passive-skill/atlas-skills-disabled-3.jpg?e3649b93",
+                "filename": "https://web.poecdn.com/image/passive-skill/atlas-skills-disabled-3.jpg?33d20c9e",
                 "w": 555,
                 "h": 821,
                 "coords": {
@@ -29697,7 +29682,7 @@
         },
         "notableInactive": {
             "0.1246": {
-                "filename": "https://web.poecdn.com/image/passive-skill/atlas-skills-disabled-0.jpg?de6b086c",
+                "filename": "https://web.poecdn.com/image/passive-skill/atlas-skills-disabled-0.jpg?e34505cc",
                 "w": 180,
                 "h": 264,
                 "coords": {
@@ -30901,38 +30886,44 @@
                         "w": 12,
                         "h": 12
                     },
-                    "Art/2DArt/SkillIcons/passives/AtlasTrees/WheelofDisablingLegion.png": {
+                    "Art/2DArt/SkillIcons/passives/AtlasTrees/WheelofDisablingHeist.png": {
                         "x": 60,
                         "y": 180,
                         "w": 12,
                         "h": 12
                     },
-                    "Art/2DArt/SkillIcons/passives/AtlasTrees/WheelofDisablingOreDesposits.png": {
+                    "Art/2DArt/SkillIcons/passives/AtlasTrees/WheelofDisablingLegion.png": {
                         "x": 72,
                         "y": 180,
                         "w": 12,
                         "h": 12
                     },
-                    "Art/2DArt/SkillIcons/passives/AtlasTrees/WheelofDisablingRitual.png": {
+                    "Art/2DArt/SkillIcons/passives/AtlasTrees/WheelofDisablingOreDesposits.png": {
                         "x": 84,
                         "y": 180,
                         "w": 12,
                         "h": 12
                     },
-                    "Art/2DArt/SkillIcons/passives/AtlasTrees/WheelofDisablingUltimatum.png": {
+                    "Art/2DArt/SkillIcons/passives/AtlasTrees/WheelofDisablingRitual.png": {
                         "x": 96,
                         "y": 180,
                         "w": 12,
                         "h": 12
                     },
-                    "Art/2DArt/SkillIcons/passives/AtlasTrees/WingedScarabPassiveNotable.png": {
+                    "Art/2DArt/SkillIcons/passives/AtlasTrees/WheelofDisablingUltimatum.png": {
                         "x": 108,
                         "y": 180,
                         "w": 12,
                         "h": 12
                     },
-                    "Art/2DArt/SkillIcons/passives/AtlasTrees/XophFireNotable.png": {
+                    "Art/2DArt/SkillIcons/passives/AtlasTrees/WingedScarabPassiveNotable.png": {
                         "x": 120,
+                        "y": 180,
+                        "w": 12,
+                        "h": 12
+                    },
+                    "Art/2DArt/SkillIcons/passives/AtlasTrees/XophFireNotable.png": {
+                        "x": 132,
                         "y": 180,
                         "w": 12,
                         "h": 12
@@ -30940,7 +30931,7 @@
                 }
             },
             "0.2109": {
-                "filename": "https://web.poecdn.com/image/passive-skill/atlas-skills-disabled-1.jpg?2758d2c4",
+                "filename": "https://web.poecdn.com/image/passive-skill/atlas-skills-disabled-1.jpg?b238141f",
                 "w": 300,
                 "h": 445,
                 "coords": {
@@ -32144,38 +32135,44 @@
                         "w": 20,
                         "h": 20
                     },
-                    "Art/2DArt/SkillIcons/passives/AtlasTrees/WheelofDisablingLegion.png": {
+                    "Art/2DArt/SkillIcons/passives/AtlasTrees/WheelofDisablingHeist.png": {
                         "x": 100,
                         "y": 302,
                         "w": 20,
                         "h": 20
                     },
-                    "Art/2DArt/SkillIcons/passives/AtlasTrees/WheelofDisablingOreDesposits.png": {
+                    "Art/2DArt/SkillIcons/passives/AtlasTrees/WheelofDisablingLegion.png": {
                         "x": 120,
                         "y": 302,
                         "w": 20,
                         "h": 20
                     },
-                    "Art/2DArt/SkillIcons/passives/AtlasTrees/WheelofDisablingRitual.png": {
+                    "Art/2DArt/SkillIcons/passives/AtlasTrees/WheelofDisablingOreDesposits.png": {
                         "x": 140,
                         "y": 302,
                         "w": 20,
                         "h": 20
                     },
-                    "Art/2DArt/SkillIcons/passives/AtlasTrees/WheelofDisablingUltimatum.png": {
+                    "Art/2DArt/SkillIcons/passives/AtlasTrees/WheelofDisablingRitual.png": {
                         "x": 160,
                         "y": 302,
                         "w": 20,
                         "h": 20
                     },
-                    "Art/2DArt/SkillIcons/passives/AtlasTrees/WingedScarabPassiveNotable.png": {
+                    "Art/2DArt/SkillIcons/passives/AtlasTrees/WheelofDisablingUltimatum.png": {
                         "x": 180,
                         "y": 302,
                         "w": 20,
                         "h": 20
                     },
-                    "Art/2DArt/SkillIcons/passives/AtlasTrees/XophFireNotable.png": {
+                    "Art/2DArt/SkillIcons/passives/AtlasTrees/WingedScarabPassiveNotable.png": {
                         "x": 200,
+                        "y": 302,
+                        "w": 20,
+                        "h": 20
+                    },
+                    "Art/2DArt/SkillIcons/passives/AtlasTrees/XophFireNotable.png": {
+                        "x": 220,
                         "y": 302,
                         "w": 20,
                         "h": 20
@@ -32183,7 +32180,7 @@
                 }
             },
             "0.2972": {
-                "filename": "https://web.poecdn.com/image/passive-skill/atlas-skills-disabled-2.jpg?7b568572",
+                "filename": "https://web.poecdn.com/image/passive-skill/atlas-skills-disabled-2.jpg?5daf39d1",
                 "w": 435,
                 "h": 640,
                 "coords": {
@@ -33387,38 +33384,44 @@
                         "w": 29,
                         "h": 29
                     },
-                    "Art/2DArt/SkillIcons/passives/AtlasTrees/WheelofDisablingLegion.png": {
+                    "Art/2DArt/SkillIcons/passives/AtlasTrees/WheelofDisablingHeist.png": {
                         "x": 145,
                         "y": 437,
                         "w": 29,
                         "h": 29
                     },
-                    "Art/2DArt/SkillIcons/passives/AtlasTrees/WheelofDisablingOreDesposits.png": {
+                    "Art/2DArt/SkillIcons/passives/AtlasTrees/WheelofDisablingLegion.png": {
                         "x": 174,
                         "y": 437,
                         "w": 29,
                         "h": 29
                     },
-                    "Art/2DArt/SkillIcons/passives/AtlasTrees/WheelofDisablingRitual.png": {
+                    "Art/2DArt/SkillIcons/passives/AtlasTrees/WheelofDisablingOreDesposits.png": {
                         "x": 203,
                         "y": 437,
                         "w": 29,
                         "h": 29
                     },
-                    "Art/2DArt/SkillIcons/passives/AtlasTrees/WheelofDisablingUltimatum.png": {
+                    "Art/2DArt/SkillIcons/passives/AtlasTrees/WheelofDisablingRitual.png": {
                         "x": 232,
                         "y": 437,
                         "w": 29,
                         "h": 29
                     },
-                    "Art/2DArt/SkillIcons/passives/AtlasTrees/WingedScarabPassiveNotable.png": {
+                    "Art/2DArt/SkillIcons/passives/AtlasTrees/WheelofDisablingUltimatum.png": {
                         "x": 261,
                         "y": 437,
                         "w": 29,
                         "h": 29
                     },
-                    "Art/2DArt/SkillIcons/passives/AtlasTrees/XophFireNotable.png": {
+                    "Art/2DArt/SkillIcons/passives/AtlasTrees/WingedScarabPassiveNotable.png": {
                         "x": 290,
+                        "y": 437,
+                        "w": 29,
+                        "h": 29
+                    },
+                    "Art/2DArt/SkillIcons/passives/AtlasTrees/XophFireNotable.png": {
+                        "x": 319,
                         "y": 437,
                         "w": 29,
                         "h": 29
@@ -33426,7 +33429,7 @@
                 }
             },
             "0.3835": {
-                "filename": "https://web.poecdn.com/image/passive-skill/atlas-skills-disabled-3.jpg?e3649b93",
+                "filename": "https://web.poecdn.com/image/passive-skill/atlas-skills-disabled-3.jpg?33d20c9e",
                 "w": 555,
                 "h": 821,
                 "coords": {
@@ -34630,38 +34633,44 @@
                         "w": 37,
                         "h": 37
                     },
-                    "Art/2DArt/SkillIcons/passives/AtlasTrees/WheelofDisablingLegion.png": {
+                    "Art/2DArt/SkillIcons/passives/AtlasTrees/WheelofDisablingHeist.png": {
                         "x": 185,
                         "y": 559,
                         "w": 37,
                         "h": 37
                     },
-                    "Art/2DArt/SkillIcons/passives/AtlasTrees/WheelofDisablingOreDesposits.png": {
+                    "Art/2DArt/SkillIcons/passives/AtlasTrees/WheelofDisablingLegion.png": {
                         "x": 222,
                         "y": 559,
                         "w": 37,
                         "h": 37
                     },
-                    "Art/2DArt/SkillIcons/passives/AtlasTrees/WheelofDisablingRitual.png": {
+                    "Art/2DArt/SkillIcons/passives/AtlasTrees/WheelofDisablingOreDesposits.png": {
                         "x": 259,
                         "y": 559,
                         "w": 37,
                         "h": 37
                     },
-                    "Art/2DArt/SkillIcons/passives/AtlasTrees/WheelofDisablingUltimatum.png": {
+                    "Art/2DArt/SkillIcons/passives/AtlasTrees/WheelofDisablingRitual.png": {
                         "x": 296,
                         "y": 559,
                         "w": 37,
                         "h": 37
                     },
-                    "Art/2DArt/SkillIcons/passives/AtlasTrees/WingedScarabPassiveNotable.png": {
+                    "Art/2DArt/SkillIcons/passives/AtlasTrees/WheelofDisablingUltimatum.png": {
                         "x": 333,
                         "y": 559,
                         "w": 37,
                         "h": 37
                     },
-                    "Art/2DArt/SkillIcons/passives/AtlasTrees/XophFireNotable.png": {
+                    "Art/2DArt/SkillIcons/passives/AtlasTrees/WingedScarabPassiveNotable.png": {
                         "x": 370,
+                        "y": 559,
+                        "w": 37,
+                        "h": 37
+                    },
+                    "Art/2DArt/SkillIcons/passives/AtlasTrees/XophFireNotable.png": {
+                        "x": 407,
                         "y": 559,
                         "w": 37,
                         "h": 37
@@ -34671,7 +34680,7 @@
         },
         "keystoneInactive": {
             "0.1246": {
-                "filename": "https://web.poecdn.com/image/passive-skill/atlas-skills-disabled-0.jpg?de6b086c",
+                "filename": "https://web.poecdn.com/image/passive-skill/atlas-skills-disabled-0.jpg?e34505cc",
                 "w": 180,
                 "h": 264,
                 "coords": {
@@ -34834,7 +34843,7 @@
                 }
             },
             "0.2109": {
-                "filename": "https://web.poecdn.com/image/passive-skill/atlas-skills-disabled-1.jpg?2758d2c4",
+                "filename": "https://web.poecdn.com/image/passive-skill/atlas-skills-disabled-1.jpg?b238141f",
                 "w": 300,
                 "h": 445,
                 "coords": {
@@ -34997,7 +35006,7 @@
                 }
             },
             "0.2972": {
-                "filename": "https://web.poecdn.com/image/passive-skill/atlas-skills-disabled-2.jpg?7b568572",
+                "filename": "https://web.poecdn.com/image/passive-skill/atlas-skills-disabled-2.jpg?5daf39d1",
                 "w": 435,
                 "h": 640,
                 "coords": {
@@ -35160,7 +35169,7 @@
                 }
             },
             "0.3835": {
-                "filename": "https://web.poecdn.com/image/passive-skill/atlas-skills-disabled-3.jpg?e3649b93",
+                "filename": "https://web.poecdn.com/image/passive-skill/atlas-skills-disabled-3.jpg?33d20c9e",
                 "w": 555,
                 "h": 821,
                 "coords": {
@@ -35325,7 +35334,7 @@
         },
         "wormholeInactive": {
             "0.1246": {
-                "filename": "https://web.poecdn.com/image/passive-skill/atlas-skills-disabled-0.jpg?de6b086c",
+                "filename": "https://web.poecdn.com/image/passive-skill/atlas-skills-disabled-0.jpg?e34505cc",
                 "w": 180,
                 "h": 264,
                 "coords": {
@@ -35338,7 +35347,7 @@
                 }
             },
             "0.2109": {
-                "filename": "https://web.poecdn.com/image/passive-skill/atlas-skills-disabled-1.jpg?2758d2c4",
+                "filename": "https://web.poecdn.com/image/passive-skill/atlas-skills-disabled-1.jpg?b238141f",
                 "w": 300,
                 "h": 445,
                 "coords": {
@@ -35351,7 +35360,7 @@
                 }
             },
             "0.2972": {
-                "filename": "https://web.poecdn.com/image/passive-skill/atlas-skills-disabled-2.jpg?7b568572",
+                "filename": "https://web.poecdn.com/image/passive-skill/atlas-skills-disabled-2.jpg?5daf39d1",
                 "w": 435,
                 "h": 640,
                 "coords": {
@@ -35364,7 +35373,7 @@
                 }
             },
             "0.3835": {
-                "filename": "https://web.poecdn.com/image/passive-skill/atlas-skills-disabled-3.jpg?e3649b93",
+                "filename": "https://web.poecdn.com/image/passive-skill/atlas-skills-disabled-3.jpg?33d20c9e",
                 "w": 555,
                 "h": 821,
                 "coords": {
@@ -36769,7 +36778,7 @@
                 }
             },
             "0.2109": {
-                "filename": "https://web.poecdn.com/image/passive-skill/atlas-frame-1.png?dafd2002",
+                "filename": "https://web.poecdn.com/image/passive-skill/atlas-frame-1.png?891a7e62",
                 "w": 183,
                 "h": 170,
                 "coords": {
@@ -36834,19 +36843,19 @@
                         "h": 32
                     },
                     "PSSkillFrameHighlighted": {
-                        "x": 151,
-                        "y": 94,
-                        "w": 21,
-                        "h": 21
-                    },
-                    "PSSkillFrameActive": {
                         "x": 109,
                         "y": 124,
                         "w": 21,
                         "h": 21
                     },
-                    "PSSkillFrame": {
+                    "PSSkillFrameActive": {
                         "x": 130,
+                        "y": 124,
+                        "w": 21,
+                        "h": 21
+                    },
+                    "PSSkillFrame": {
+                        "x": 151,
                         "y": 124,
                         "w": 21,
                         "h": 21
