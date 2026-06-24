@@ -7504,6 +7504,9 @@
             "stats": [
                 "Your Corrupted Rare Maps are modified unpredictably when opened"
             ],
+            "reminderText": [
+                "(Cannot modifiy Blighted Maps or Maps behind Voidstone sockets on the Atlas)"
+            ],
             "flavourText": [
                 "The landscape twists before your eyes, morphing into realms of unspeakable horror."
             ],
@@ -13484,7 +13487,7 @@
             "icon": "Art/2DArt/SkillIcons/passives/AtlasTrees/ScarabLeaguesHarbinger.png",
             "isNotable": true,
             "stats": [
-                "Scarabs dropped in your Maps have 100% increased chance to be Divination Scarabs"
+                "Scarabs dropped in your Maps have 100% increased chance to be Influence Scarabs"
             ],
             "group": 133,
             "orbit": 0,

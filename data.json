@@ -7554,6 +7554,9 @@
                 "Your Corrupted Rare Maps are modified unpredictably when opened",
                 "Maps modified in this way have 1-3 additional random Map Modifiers"
             ],
+            "reminderText": [
+                "(Cannot modifiy Blighted Maps or Maps behind Voidstone sockets on the Atlas)"
+            ],
             "flavourText": [
                 "The landscape twists before your eyes, morphing into realms of unspeakable horror."
             ],
@@ -13002,6 +13005,9 @@
             "stats": [
                 "15% increased chance for Bosses Witnessed by the Maven in your Maps to drop Maven Chisels"
             ],
+            "reminderText": [
+                "(Maven Chisels can only drop if you have the Ceremonial Voidstone socketed in your Atlas)"
+            ],
             "group": 125,
             "orbit": 3,
             "orbitIndex": 12,
@@ -13085,6 +13091,9 @@
             "icon": "Art/2DArt/SkillIcons/passives/AtlasTrees/TheMavenNode.png",
             "stats": [
                 "15% increased chance for Bosses Witnessed by the Maven in your Maps to drop Maven Chisels"
+            ],
+            "reminderText": [
+                "(Maven Chisels can only drop if you have the Ceremonial Voidstone socketed in your Atlas)"
             ],
             "group": 125,
             "orbit": 3,
