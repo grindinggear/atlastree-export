@@ -14587,8 +14587,7 @@
             "icon": "Art/2DArt/SkillIcons/passives/AtlasTrees/AbyssCrack.png",
             "isNotable": true,
             "stats": [
-                "Abyss Pits in your Maps have 8% chance to spawn 100% increased Monsters",
-                "Abyss Cracks in your Maps have 8% chance to spawn 100% increased Monsters"
+                "Abyss Pits in your Maps have 3% chance to spawn all Monsters as at least Magic for each prior Pit closed"
             ],
             "group": 157,
             "orbit": 0,
@@ -16144,7 +16143,7 @@
             "icon": "Art/2DArt/SkillIcons/passives/AtlasTrees/AbyssNotable6.png",
             "isNotable": true,
             "stats": [
-                "800% increased Rarity of Items Dropped by Abyssal Troves and Stygian Spires in your Maps"
+                "800% increased Rarity of Items Dropped by Abyssal Troves in your Maps"
             ],
             "group": 187,
             "orbit": 2,
@@ -19602,7 +19601,7 @@
             "icon": "Art/2DArt/SkillIcons/passives/AtlasTrees/AbyssNotable.png",
             "isNotable": true,
             "stats": [
-                "Abyss Jewels dropped by Abyssal Troves or Stygian Spires in your Maps have a 20% Chance to be Rare and Corrupted"
+                "Abyss Jewels dropped by Abyssal Troves have a 20% chance to be Rare and Corrupted"
             ],
             "group": 237,
             "orbit": 2,
