@@ -18108,7 +18108,7 @@
             "name": "Abyssal Depths Chance",
             "icon": "Art/2DArt/SkillIcons/passives/AtlasTrees/AbyssNode1.png",
             "stats": [
-                "Abysses in your Maps have 15% increased chance to lead to an Abyssal Depths"
+                "[ContainsAbyss|Abysses] in your Maps have 15% increased chance to lead to an [AbyssalDepths|Abyssal Depths]"
             ],
             "group": 217,
             "orbit": 3,
@@ -18267,7 +18267,7 @@
             "icon": "Art/2DArt/SkillIcons/passives/AtlasTrees/AbyssNotable5.png",
             "isNotable": true,
             "stats": [
-                "Abysses in your Maps have 50% increased chance to lead to an Abyssal Depths"
+                "[ContainsAbyss|Abysses] in your Maps have 50% increased chance to lead to an [AbyssalDepths|Abyssal Depths]"
             ],
             "group": 217,
             "orbit": 3,
